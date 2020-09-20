@@ -25,6 +25,6 @@ teamwork
 https://childrenscience.ru  
 https://htmlacademy.ru/profile/id1156451
 
-## English Level
+## English level
 
 tested online as B1
