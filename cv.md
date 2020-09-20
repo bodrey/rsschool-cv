@@ -1,11 +1,11 @@
 # Andrey Martynov
 
-## contacts
+## Contacts
 
 andrey@martynov.info\
 https://t.me/and_martynov
 
-## have experience with 
+## Have experience with 
 
 html/css/less\
 js/jquery\
@@ -14,18 +14,18 @@ bootstrap\
 grav\
 tiddly wiki
 
-## interested in
+## Interested in
 
 react\
 webpack\
 bem\
 teamwork 
 
-## projects and education 
+## Projects and education 
 
 https://childrenscience.ru  
 https://htmlacademy.ru/profile/id1156451
 
-## english Level
+## English Level
 
 tested online as B1
