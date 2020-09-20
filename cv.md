@@ -12,7 +12,6 @@ js/jquery\
 grunt\
 bootstrap\
 grav\
-tiddly wiki
 
 ## Interested in
 
