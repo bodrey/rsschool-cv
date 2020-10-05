@@ -12,6 +12,7 @@ js/jquery\
 grunt\
 bootstrap\
 grav\
+git
 
 ## Interested in
 
