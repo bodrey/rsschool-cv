@@ -8,6 +8,7 @@
 ## Have experience with 
 
 html/css/less\
+python\
 js/jquery\
 grunt\
 bootstrap\
