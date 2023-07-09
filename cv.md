@@ -39,13 +39,13 @@ Teamwork
 - 2018 - 2022 - JS Developer for interactive assignments in courses
 - 2018 - Project Manager in collaborative projects with "Intellectual" School in Moscow
 
-
 ### 2011 - 2017 - Non-IT jobs
 
 - Worked in event management and audio rental as a technical specialist/sound engineer
 - Film Crew Administrator for "SkyRide Moscow."
 - Worked in event organizations for Nike and Red Bull
 - Founded an independent recording studio
+
 ### 2010 - 2011 - Web Designer at Artective Web Studio
 
 ## Education
